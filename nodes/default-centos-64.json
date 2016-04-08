@@ -1,0 +1,6 @@
+{
+  "name": "default-centos-64",
+  "run_list": [
+    "recipe[test-apache1]"
+  ]
+}
